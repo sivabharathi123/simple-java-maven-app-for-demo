@@ -1,5 +1,5 @@
 # simple-java-maven-app
-checking for webhook functionality to do demo on mar 24th
+checking for webhook functionality to do demo on mar 24th 2024
 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
