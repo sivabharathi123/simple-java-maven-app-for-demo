@@ -1,9 +1,6 @@
 # simple-java-maven-app
-<<<<<<< HEAD
-Creating a merge conflict in line 2 of first branch
-=======
 Creating a merge conflict in line 2 of second branch
->>>>>>> secondbranch
+
 checking for webhook functionality to do demo on apr 11th 2024
 
 This repository is for the
